@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_service_description">FocusGuard checks which app is open so it can pause apps that reached your daily limit. It does not read your screen, messages or passwords.</string>
+</resources>
